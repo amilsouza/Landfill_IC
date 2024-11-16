@@ -1,1 +1,1 @@
-O inicio de uma longa jornada em ciência de dados
+O inicio de uma nova jornada em ciência de dados
